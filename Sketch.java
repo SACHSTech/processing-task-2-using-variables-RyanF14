@@ -11,7 +11,7 @@ public class Sketch extends PApplet {
   //Define Variables below for window size
  
 
-    size(800, 800);
+    size(1080, 1080);
   }
 
   /** 
